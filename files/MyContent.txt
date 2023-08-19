@@ -1,0 +1,2 @@
+Hello Friends
+Hi Friends, i am using NodeJS inbuilt Module for Writing/Reading into Files
